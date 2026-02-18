@@ -1,6 +1,8 @@
 name: Update IPTV Playlist
 
 on:
+  schedule:
+    - cron: '*/15 * * * *'
   workflow_dispatch:
   repository_dispatch:
     types: [trigger-playlist-update]
