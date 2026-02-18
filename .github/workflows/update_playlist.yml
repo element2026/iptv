@@ -1,0 +1,50 @@
+name: Update IPTV Playlist
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium --with-deps
+
+      - name: Run Scraper
+        run: python m3u.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          git add tv.m3u
+          git stash
+          git pull --rebase origin main
+          git stash pop || echo "No changes to unstash"
+          
+          if [ -f "tv.m3u" ]; then
+            git add tv.m3u
+            git commit -m "Auto-update: $(date)" || echo "No changes"
+            git push origin main
+          else
+            exit 1
+          fi
