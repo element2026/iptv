@@ -2,15 +2,14 @@ import re
 import requests
 import os
 import time
-import subprocess
+import sys
 from playwright.sync_api import sync_playwright
 
 BASE_URL = "https://www.seirsanduk.us"
 OUTPUT_FILE = "tv.m3u"
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-REFERER = "https://glebul.com"
 MAX_CHANNELS = 100
-MAX_RUNTIME_SECONDS = 600 # Increased slightly for ffprobe overhead
+MAX_RUNTIME_SECONDS = 500
 START_TIME = time.time()
 
 def block_aggressively(route):
@@ -18,32 +17,6 @@ def block_aggressively(route):
         route.abort()
     else:
         route.continue_()
-
-def is_link_working(url):
-    """
-    Uses ffprobe to verify the stream has valid media content.
-    This catches 403, 404, and 'empty' streams that requests might miss.
-    """
-    # Build the ffprobe command
-    # -v error: only show critical errors
-    # -show_entries: minimize output
-    # -headers: pass the required UA and Referer
-    cmd = [
-        'ffprobe', 
-        '-v', 'error', 
-        '-show_entries', 'format=duration', 
-        '-of', 'default=noprint_wrappers=1:nokey=1',
-        '-headers', f"User-Agent: {UA}\r\nReferer: {REFERER}\r\n",
-        url
-    ]
-    
-    try:
-        # Run ffprobe with a 10-second timeout
-        result = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=12)
-        # If returncode is 0, the stream is valid and readable
-        return result.returncode == 0
-    except (subprocess.TimeoutExpired, Exception):
-        return False
 
 def get_channel_list(page):
     try:
@@ -63,6 +36,14 @@ def get_channel_list(page):
     except Exception:
         return []
 
+def is_link_working(url):
+    headers = {"Referer": "https://glebul.com", "User-Agent": UA}
+    try:
+        with requests.get(url, headers=headers, timeout=10, stream=True) as r:
+            return r.status_code == 200
+    except:
+        return False
+
 def get_stream_for_channel(browser, channel_id):
     if time.time() - START_TIME > MAX_RUNTIME_SECONDS:
         return "STOP"
@@ -74,9 +55,8 @@ def get_stream_for_channel(browser, channel_id):
     
     found_link = None
     try:
-        # Looking for the .m3u8 source
-        with page.expect_request(lambda request: "index.m3u8" in request.url, timeout=20000) as req_info:
-            page.goto(channel_url, wait_until="domcontentloaded", timeout=20000)
+        with page.expect_request(lambda request: "index.m3u8" in request.url, timeout=25000) as req_info:
+            page.goto(channel_url, wait_until="domcontentloaded", timeout=25000)
             found_link = req_info.value.url
     except:
         pass
@@ -84,13 +64,8 @@ def get_stream_for_channel(browser, channel_id):
     page.close()
     context.close()
 
-    if found_link:
-        print(f"Checking stream for {channel_id}...")
-        if is_link_working(found_link):
-            print(f"  [SUCCESS] {channel_id} is live.")
-            return found_link
-        else:
-            print(f"  [FAILED] {channel_id} returned error or no data.")
+    if found_link and is_link_working(found_link):
+        return found_link
     return None
 
 def run():
@@ -98,7 +73,7 @@ def run():
         os.remove(OUTPUT_FILE)
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
+        browser = p.chromium.launch(headless=True, args=['--no-sandbox', '--disable-gpu'])
         temp_context = browser.new_context(user_agent=UA)
         temp_page = temp_context.new_page()
         temp_page.route("**/*", block_aggressively)
@@ -107,7 +82,6 @@ def run():
         temp_context.close()
         
         if not channel_ids:
-            print("No channels found.")
             browser.close()
             return
 
@@ -115,7 +89,6 @@ def run():
         for cid in channel_ids:
             stream_url = get_stream_for_channel(browser, cid)
             if stream_url == "STOP":
-                print("Runtime limit reached, finishing up...")
                 break
             if stream_url:
                 playlist_entries.append((cid, stream_url))
@@ -126,9 +99,8 @@ def run():
                 for name, url in playlist_entries:
                     f.write(f"\n#EXTINF:-1, {name.upper()}\n")
                     f.write(f"#EXTVLCOPT:http-user-agent={UA}\n")
-                    f.write(f"#EXTVLCOPT:http-referrer={REFERER}\n")
-                    f.write(f"{url}|User-Agent={UA}&Referer={REFERER}\n")
-            print(f"\nCreated {OUTPUT_FILE} with {len(playlist_entries)} working channels.")
+                    f.write(f"#EXTVLCOPT:http-referrer=https://glebul.com\n")
+                    f.write(f"{url}|User-Agent={UA}&Referer=https://glebul.com\n")
         
         browser.close()
 
