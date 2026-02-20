@@ -10,7 +10,7 @@ OUTPUT_FILE = "tv.m3u"
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 MAX_CHANNELS = 100
 MAX_RUNTIME_SECONDS = 900 # Increased to allow for retries
-MAX_RETRIES_PER_CHANNEL = 5 # Prevents infinite loops on dead channels
+MAX_RETRIES_PER_CHANNEL = 1 # Prevents infinite loops on dead channels
 START_TIME = time.time()
 
 def block_aggressively(route):
