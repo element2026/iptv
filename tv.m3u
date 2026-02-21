@@ -3,254 +3,254 @@
 #EXTINF:-1, AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn11.glebul.com/hls/axn/index.m3u8?e=1771674957&hash=frJFzmDqalvXR-IouYitRA|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn11.glebul.com/hls/axn/index.m3u8?e=1771678582&hash=ys7HlwTnyLhbjpZpoQwBhQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, AXN-BLACK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn11.glebul.com/hls/axn-black/index.m3u8?e=1771674959&hash=HUO8rMckxHq4_YmQRFQBbQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/axn-black/index.m3u8?e=1771678582&hash=ys7HlwTnyLhbjpZpoQwBhQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, AXN-WHITE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/axn-white/index.m3u8?e=1771674961&hash=di2nUDlj0lrcUuAGB-Sl9g|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/axn-white/index.m3u8?e=1771678583&hash=JnZ2Hu_KmJYADUMe081IPA|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, BLOOMBERG-TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/bloomberg-tv/index.m3u8?e=1771674962&hash=aUQqZFQUr94o1BFUM4fs9A|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/bloomberg-tv/index.m3u8?e=1771678584&hash=0GVlhgIUzH2rCVZ7UHb7Yw|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, BNT-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn11.glebul.com/hls/bnt-2/index.m3u8?e=1771674964&hash=_UVRx0hqRhxiza2Z5c2xjA|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/bnt-2/index.m3u8?e=1771678585&hash=IxZGY3oE8iYk4XsmmAgsnw|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, BNT-4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/bnt-4/index.m3u8?e=1771674965&hash=nFocWN8iiGgycY6SC4pcqQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/bnt-4/index.m3u8?e=1771678586&hash=Y58yTlOY8qiF9h8ym3MQqg|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, BTV-CINEMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/btv-cinema/index.m3u8?e=1771674966&hash=kmnlv6R4U75c3rembeiPhw|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn11.glebul.com/hls/btv-cinema/index.m3u8?e=1771678587&hash=RuEr8NEBCPaX49hn5_mPrQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, BTV-STORY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/btv-story/index.m3u8?e=1771674968&hash=UxfS3u8KV6h0RAu2gmiMhw|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn11.glebul.com/hls/btv-story/index.m3u8?e=1771678587&hash=RuEr8NEBCPaX49hn5_mPrQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, BULGARIA-ON-AIR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn11.glebul.com/hls/bulgaria-on-air/index.m3u8?e=1771674970&hash=tS2iLWYIA03YgYakSwYTOw|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/bulgaria-on-air/index.m3u8?e=1771678588&hash=VdxcbLUokqxVhL9IQxv_kw|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, CARTOON-NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/cartoon-network/index.m3u8?e=1771674971&hash=uzS865x1lXxFn6TbvRqUkg|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/cartoon-network/index.m3u8?e=1771678589&hash=delqWkTdb2k3RDNymLdfUQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, CITY-TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn11.glebul.com/hls/city-tv/index.m3u8?e=1771674972&hash=5at7H7UjMOEDMnop05Ln3A|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn11.glebul.com/hls/city-tv/index.m3u8?e=1771678590&hash=wnU84cgvU_UeaEmg6n8BSQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, DISNEY-CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/disney-channel/index.m3u8?e=1771674973&hash=1xcolTGv1tdjKgjDGFoPNg|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/disney-channel/index.m3u8?e=1771678591&hash=fZYVamruqCIkcCUP7ujI-A|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, DSTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/dstv/index.m3u8?e=1771674974&hash=ixsIXu7x-rEdOzsSp0M6LQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/dstv/index.m3u8?e=1771678592&hash=z3UpNi-aIvY3JF22RykpnQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, E-KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn11.glebul.com/hls/e-kids/index.m3u8?e=1771674976&hash=OQshgBo1O1emXFK9Eydydw|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn11.glebul.com/hls/e-kids/index.m3u8?e=1771678592&hash=z3UpNi-aIvY3JF22RykpnQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, EVROKOM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn11.glebul.com/hls/evrokom/index.m3u8?e=1771674977&hash=uCnJrRHbTLcSq0SAz7cEiA|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/evrokom/index.m3u8?e=1771678593&hash=ArXkehqOXfEKH-oZ_5U6ZA|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, FOLKLOR-TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn11.glebul.com/hls/folklor-tv/index.m3u8?e=1771674978&hash=1nNvxsFgxYr5hvLe0Ba8Lg|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/folklor-tv/index.m3u8?e=1771678594&hash=Ry3C7cz5bMdUEjRIXbTO2w|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, HD-24-KITCHEN-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/hd-24-kitchen-hd/index.m3u8?e=1771674979&hash=XX4VAhZ9SYfTLS3uumna-Q|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/hd-24-kitchen-hd/index.m3u8?e=1771678595&hash=Dfz3IAHjzCOseAHeXNqlEA|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, HD-78-TV-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn11.glebul.com/hls/hd-78-tv-hd/index.m3u8?e=1771674980&hash=DMSgZvTQmO9p8ja4P_ZAIg|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/hd-78-tv-hd/index.m3u8?e=1771678596&hash=c-IdbK2HUO_nfIKAO_NZhg|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, HD-BTV-COMEDY-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn11.glebul.com/hls/hd-btv-comedy-hd/index.m3u8?e=1771674999&hash=58Tv2aYlEoouWPECaIyW4Q|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/hd-btv-comedy-hd/index.m3u8?e=1771678612&hash=Ia78H0HAy2ggouNNrgbTzw|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, HD-BTV-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn11.glebul.com/hls/hd-btv-hd/index.m3u8?e=1771675000&hash=mA3nAISrvOI0VXxLwlB-jQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/hd-btv-hd/index.m3u8?e=1771678613&hash=9-ZjFHjEG-w-Zg-Y7Tpyyw|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, HD-CODE-FASHION-TV-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/hd-code-fashion-tv-hd/index.m3u8?e=1771675001&hash=28NqmI8QV2jAhqfC05i20Q|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/hd-code-fashion-tv-hd/index.m3u8?e=1771678614&hash=YSwfJ_gPLkVksbEY2ezfeA|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, HD-DIEMA-FAMILY-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn11.glebul.com/hls/hd-diema-family-hd/index.m3u8?e=1771675002&hash=Cui6YU0j19yirFYtiXqPoQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn11.glebul.com/hls/hd-diema-family-hd/index.m3u8?e=1771678615&hash=8eZTl950ndbHOruqnh5VPw|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, HD-DIEMA-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn11.glebul.com/hls/hd-diema-hd/index.m3u8?e=1771675003&hash=bMhwQPz2NUuCnQqD8Hkfzg|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/hd-diema-hd/index.m3u8?e=1771678616&hash=PABiTK6Yb3S082F7BveabQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, HD-DISCOVERY-CHANNEL-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn11.glebul.com/hls/hd-discovery-channel-hd/index.m3u8?e=1771675022&hash=N_iWCBt9s4CvA9hIje2UZA|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/hd-discovery-channel-hd/index.m3u8?e=1771678632&hash=c60_O-OP9PojCJKbEiFmVQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, HD-EPIC-DRAMA-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn11.glebul.com/hls/hd-epic-drama-hd/index.m3u8?e=1771675023&hash=Suel2NlaGLhdZcbdnTw2dA|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/hd-epic-drama-hd/index.m3u8?e=1771678633&hash=ZgzBCe80CCeHrUI-1sa0MA|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, HD-EURONEWS-BULGARIA-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/hd-euronews-bulgaria-hd/index.m3u8?e=1771675024&hash=CjmwmfIf8-grkadc1lit5Q|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn11.glebul.com/hls/hd-euronews-bulgaria-hd/index.m3u8?e=1771678634&hash=sutrj12oc5q91aOTIbiPEA|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, HD-FOOD-NETWORK-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/hd-food-network-hd/index.m3u8?e=1771675037&hash=nI8d_pK6nM6WNGAR0MU1rA|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/hd-food-network-hd/index.m3u8?e=1771678645&hash=xZsrBKu8n2biSk8wZy1Utg|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, HD-ID-XTRA-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/hd-id-xtra-hd/index.m3u8?e=1771675038&hash=1LG3cD-U4VkHiD9wGupu8w|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/hd-id-xtra-hd/index.m3u8?e=1771678646&hash=Ot3t2w8tGUjkBfANgk352A|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, HD-NAT-GEO-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/hd-nat-geo-hd/index.m3u8?e=1771675061&hash=flDJF78kqyZZgwpde2KIag|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn11.glebul.com/hls/hd-nat-geo-hd/index.m3u8?e=1771678668&hash=Kg65R5Fp7ob8SXZOIk6zRw|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, HD-NAT-GEO-WILD-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn11.glebul.com/hls/hd-nat-geo-wild-hd/index.m3u8?e=1771675062&hash=jJVSrkKmI2AvWx527zbEFQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/hd-nat-geo-wild-hd/index.m3u8?e=1771678669&hash=8a_vmFw2zf6uf30wdlsmGw|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, HD-NOVA-NEWS-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/hd-nova-news-hd/index.m3u8?e=1771675064&hash=om8gzIqKsBW-tvDY9AJ1vA|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn11.glebul.com/hls/hd-nova-news-hd/index.m3u8?e=1771678670&hash=7QDkJdHfJTRXuveqIBN38Q|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, HD-NOVA-TV-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/hd-nova-tv-hd/index.m3u8?e=1771675070&hash=lvp_TOxwEohJvmdgtLplUA|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/hd-nova-tv-hd/index.m3u8?e=1771678676&hash=VomGu1Pe83xR0mMUvO_h-A|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, HD-PLANETA-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn11.glebul.com/hls/hd-planeta-hd/index.m3u8?e=1771675071&hash=CBp5bvRJdvvcuEp4htLb6g|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/hd-planeta-hd/index.m3u8?e=1771678677&hash=bRlUjrVJ7tPyCK0ND2mQbQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, HD-STAR-CHANNEL-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/hd-star-channel-hd/index.m3u8?e=1771675078&hash=0RZE3RErLzgnJJQCjvivsg|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn11.glebul.com/hls/hd-star-channel-hd/index.m3u8?e=1771678683&hash=vvbtZtPhbAXHyh_bESZl8A|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, HD-STAR-CRIME-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/hd-star-crime-hd/index.m3u8?e=1771675079&hash=7swZ9LooLnKgBPteIrN45A|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/hd-star-crime-hd/index.m3u8?e=1771678683&hash=vvbtZtPhbAXHyh_bESZl8A|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, HD-STAR-LIFE-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn11.glebul.com/hls/hd-star-life-hd/index.m3u8?e=1771675080&hash=JJydlLfCEwDZngxbpogp_w|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/hd-star-life-hd/index.m3u8?e=1771678684&hash=E_hHFxbihi2jOeuhcthcMQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, HD-TRAVEL-CHANNEL-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/hd-travel-channel-hd/index.m3u8?e=1771675081&hash=c7knfZIInmgwwSINGeUtqg|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/hd-travel-channel-hd/index.m3u8?e=1771678685&hash=BOLn6G0cJdkBFY5RaTTb0A|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, KANAL-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/kanal-3/index.m3u8?e=1771675082&hash=lJIAYIK19DR2YTy4F9KNzw|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/kanal-3/index.m3u8?e=1771678686&hash=ExtBsLaWKZxEedK-Vi--XA|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, KINO-NOVA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/kino-nova/index.m3u8?e=1771675084&hash=g_O8ipUy2Va_y_5KUASHNQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/kino-nova/index.m3u8?e=1771678687&hash=wDcPQ7lV-xKhHynZ94Dr-g|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, NICK-JR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/nick-jr/index.m3u8?e=1771675085&hash=Z0o2UJ5Fat2YmpKNBc7zqQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn11.glebul.com/hls/nick-jr/index.m3u8?e=1771678687&hash=wDcPQ7lV-xKhHynZ94Dr-g|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, NICKELODEON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/nickelodeon/index.m3u8?e=1771675086&hash=XrIl33rhKacnY0IiRR9NNw|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/nickelodeon/index.m3u8?e=1771678688&hash=vZz6q-l4CmJVILbW8VAkmw|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, NICKTOONS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn11.glebul.com/hls/nicktoons/index.m3u8?e=1771675087&hash=6PndoanoArO4I7o7MWIuhQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/nicktoons/index.m3u8?e=1771678689&hash=WD8UL7lUEbx4X6AaAf_VQw|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, PLANETA-FOLK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn11.glebul.com/hls/planeta-folk/index.m3u8?e=1771675088&hash=wEQgdnR6BBncxh6jk0pOzg|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn11.glebul.com/hls/planeta-folk/index.m3u8?e=1771678690&hash=QNTsB8qmeomxUz383nPAUA|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, RODINA-TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/rodina-tv/index.m3u8?e=1771675089&hash=QpMPlgS3tGbek7fOj1fY7A|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/rodina-tv/index.m3u8?e=1771678691&hash=a6hqnpkeSySooEJYV1rJLw|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, SKAT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/skat/index.m3u8?e=1771675090&hash=4zVZ4NropJs7TIeU6UuDIg|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/skat/index.m3u8?e=1771678692&hash=klFP_L7FeFw2qMnBSEuQwQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, THE-VOICE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/the-voice/index.m3u8?e=1771675091&hash=nGzYHQt62zDwfzO3aTaz2g|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/the-voice/index.m3u8?e=1771678692&hash=klFP_L7FeFw2qMnBSEuQwQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, TIANKOV-TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/tiankov-tv/index.m3u8?e=1771675092&hash=d3pnUXlpM-7-kfDFnN5VOg|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn11.glebul.com/hls/tiankov-tv/index.m3u8?e=1771678693&hash=_VdwLtlUiOsnLDY_wNtndg|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn11.glebul.com/hls/tlc/index.m3u8?e=1771675094&hash=tp5bMRm3itVqf36hM8vJFg|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/tlc/index.m3u8?e=1771678694&hash=uczLbJYfuZPVTNfUJfSZ_g|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, TRAVEL-TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/travel-tv/index.m3u8?e=1771675095&hash=L3XSTu1DGJyPOK8yv4XLug|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/travel-tv/index.m3u8?e=1771678695&hash=_w9eTHWh0ZW2-Au26sK7_g|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, TV-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn11.glebul.com/hls/tv-1/index.m3u8?e=1771675096&hash=b8_tBVs1OWTudMcZOsHhxQ|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/tv-1/index.m3u8?e=1771678696&hash=J5wwL5q5-j_Zm8NS9_lqAg|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
 
 #EXTINF:-1, VTK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://glebul.com
-https://cdn3.glebul.com/hls/vtk/index.m3u8?e=1771675097&hash=743D0_qQJjVH1kl49h0nrg|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
+https://cdn3.glebul.com/hls/vtk/index.m3u8?e=1771678696&hash=J5wwL5q5-j_Zm8NS9_lqAg|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://glebul.com
